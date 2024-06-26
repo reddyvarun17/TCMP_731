@@ -12,6 +12,9 @@
     <module>code/routines</module>
     <module>code/beans</module>
     <module>jobs/process/test_1_0.1</module>
+    <module>jobs/joblets/common_context_load_0.1</module>
+    <module>jobs/joblets/audit_table_0.1</module>
+    <module>jobs/process/l2_stg_landing_to_staging_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
